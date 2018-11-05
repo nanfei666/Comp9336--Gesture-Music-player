@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gesture_music_player</string>
+    <string name="timer">Timer%1$s seconds</string>
+</resources>
